@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RanSanMoiVH", "RanSanMoiVH\RanSanMoiVH.csproj", "{525DCD95-A366-4EBB-BF0F-C4B1FB2A075E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupGameRanSanmoi", "SetupGameRanSanmoi\SetupGameRanSanmoi.vdproj", "{5A303CDC-B9C7-48A1-B88D-EA18BB18EF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525DCD95-A366-4EBB-BF0F-C4B1FB2A075E}.Debug|x86.ActiveCfg = Debug|x86
+		{525DCD95-A366-4EBB-BF0F-C4B1FB2A075E}.Debug|x86.Build.0 = Debug|x86
+		{525DCD95-A366-4EBB-BF0F-C4B1FB2A075E}.Release|x86.ActiveCfg = Release|x86
+		{525DCD95-A366-4EBB-BF0F-C4B1FB2A075E}.Release|x86.Build.0 = Release|x86
+		{5A303CDC-B9C7-48A1-B88D-EA18BB18EF82}.Debug|x86.ActiveCfg = Debug
+		{5A303CDC-B9C7-48A1-B88D-EA18BB18EF82}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

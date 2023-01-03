@@ -1,0 +1,45 @@
+c:\users\hung\documents\visual studio 2010\Projects\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.exe
+c:\users\hung\documents\visual studio 2010\Projects\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.pdb
+c:\users\hung\documents\visual studio 2010\Projects\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.Form1.resources
+c:\users\hung\documents\visual studio 2010\Projects\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.Properties.Resources.resources
+c:\users\hung\documents\visual studio 2010\Projects\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.exe
+c:\users\hung\documents\visual studio 2010\Projects\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.pdb
+C:\Users\Hung\Documents\Visual Studio 2010\Projects\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Documents\Visual Studio 2010\Projects\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.csproj.GenerateResource.Cache
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.exe
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.pdb
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.exe
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.pdb
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.csprojResolveAssemblyReference.cache
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.Form1.resources
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.Properties.Resources.resources
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.csproj.GenerateResource.Cache
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.exe.config
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.FormMuc.resources
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.FormThongTin.resources
+E:\Hoc tap\bai tap visual\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.FormHuongdan.resources
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.exe.config
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.exe
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.pdb
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.exe
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.pdb
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.csprojResolveAssemblyReference.cache
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.Form1.resources
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.FormThongTin.resources
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.FormHuongdan.resources
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.FormMuc.resources
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.Properties.Resources.resources
+E:\do an 2\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.exe.config
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.exe
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\bin\Debug\RanSanMoiVH.pdb
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.Form1.resources
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.FormThongTin.resources
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.FormHuongdan.resources
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.FormMuc.resources
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.Properties.Resources.resources
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.exe
+C:\Users\Admin\Downloads\RanSanMoiVH\RanSanMoiVH\RanSanMoiVH\obj\x86\Debug\RanSanMoiVH.pdb
